@@ -15,17 +15,17 @@ A passionate and results-driven **Data Scientist & AI/ML Engineer** with a prove
 Here are a few highlights from my portfolio, demonstrating my end-to-end capabilities:
 
 * ### **Specialized AI Chatbot with Advanced RAG & Function Calling**
-    [cite_start]Developed a domain-specific chatbot leveraging LangChain and Streamlit, implementing advanced Retrieval Augmented Generation (RAG) with query translation and dynamic function calling for highly contextual and practical responses. 
+Developed a domain-specific chatbot leveraging LangChain and Streamlit, implementing advanced Retrieval Augmented Generation (RAG) with query translation and dynamic function calling for highly contextual and practical responses. 
 
 * ### **Enterprise ML Solution: Retail Bank Loan Default Risk Prediction (Capstone)**
-    [cite_start]Spearheaded the development and multi-model deployment of a risk evaluation service for retail banks on Google Cloud Platform, translating complex business requirements into scalable and diversified ML solutions.
+Spearheaded the development and multi-model deployment of a risk evaluation service for retail banks on Google Cloud Platform, translating complex business requirements into scalable and diversified ML solutions.
 
 
 * ### **Machine Learning Model for Stroke Prediction & Deployment**
-    [cite_start]Engineered and deployed an end-to-end machine learning model to predict stroke likelihood, showcasing robust `scikit-learn` pipelines, hyperparameter tuning, and real-time inference capabilities.
+Engineered and deployed an end-to-end machine learning model to predict stroke likelihood, showcasing robust `scikit-learn` pipelines, hyperparameter tuning, and real-time inference capabilities.
 
 * ### **A/B Testing Analysis & Dashboard Creation**
-    [cite_start]Executed comprehensive A/B testing analysis across various datasets, conducting rigorous statistical tests, calculating confidence intervals, and creating insightful dashboards to provide data-driven recommendations. 
+Executed comprehensive A/B testing analysis across various datasets, conducting rigorous statistical tests, calculating confidence intervals, and creating insightful dashboards to provide data-driven recommendations. 
 
 ## 🌱 I'm Currently Learning
 
